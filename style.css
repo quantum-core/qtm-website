@@ -1,0 +1,30 @@
+A.bodyLinkNoBold:link {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana
+}
+A.bodyLinkNoBold:visited {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana
+}
+A.bodyLinkNoBold:hover {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana
+}
+A.sqBoxLink:link {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.sqBoxLink:visited {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.sqBoxLink:hover {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.footerLink:link {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana
+}
+A.footerLink:visited {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: verdana
+}
+A.footerLink:hover {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY: verdana
+}
+.bodyText {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
